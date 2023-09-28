@@ -33,7 +33,7 @@ html,body{
     font-size: 50px;
     color: black;
     font-family: 'Roboto', sans-serif;
-    font-style:italic;
+    font-style:normal;
     font-weight: 900;
 }
 
@@ -45,7 +45,7 @@ html,body{
 
 .header1 h2{
     font-family: 'Roboto', sans-serif;
-    font-style:italic;
+    font-style:normal;
     font-weight: 900;
     font-size: 25px;
     position: absolute;
@@ -56,7 +56,7 @@ html,body{
 
 .header12 h1{
     font-family: 'Roboto', sans-serif;
-    font-style:italic;
+    font-style:normal;
     font-weight: 900;
     font-size: 25px;
     position: absolute;
@@ -159,27 +159,27 @@ html,body{
 
 .posti span{
     font-family: 'Roboto', sans-serif;
-    font-style:italic;
+    font-style:normal;
     font-weight: 900;
 }
 
 .in span{
 
         font-family: 'Roboto', sans-serif;
-        font-style:italic;
+        font-style:normal;
         font-weight: 900;
     
 }
 
 .face span{
     font-family: 'Roboto', sans-serif;
-    font-style:italic;
+    font-style:normal;
     font-weight: 900;
 }
 
 .insta span{
     font-family: 'Roboto', sans-serif;
-    font-style:italic;
+    font-style:normal;
     font-weight: 900;
 }
 @media only screen and (max-width: 700px) {
