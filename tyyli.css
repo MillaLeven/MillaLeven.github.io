@@ -221,7 +221,7 @@ html,body{
 
         @media only screen and (max-width: 1300px){
             .header12 h1{
-                font-size: 20px;
+                font-size: 30px;
                 position: absolute;
                 top: 77px;
                 left: 600px;
@@ -229,10 +229,10 @@ html,body{
             }
 
             .header1 h2{
-                font-size: 20px;
+                font-size: 30px;
                 position: absolute;
                 top: 74px;
-                left: 650px;
+                left: 750px;
                 text-decoration: underline;
 
             }
@@ -274,6 +274,7 @@ html,body{
      
 
            }
+            }
     
          @media only screen and (max-width: 1050px) {
 
@@ -349,29 +350,29 @@ html,body{
 
         }
      
-        @media only screen and (max-width: 600px){
+        @media only screen and (max-width: 500px){
 
             .header h1{
-                font-size: 30px;
+                font-size: 20px;
                 position: absolute;
                 
-                left: 10px;
+                left: 7px;
                
 
             }
             .header12 h1{
-                font-size: 20px;
+                font-size: 15px;
                 position: absolute;
                 top: 67px;
-                left: 250px;
+                left: 150px;
                 text-decoration: underline;
             }
 
             .header1 h2{
-                font-size: 20px;
+                font-size: 15px;
                 position: absolute;
                 top: 64px;
-                left: 300px;
+                left: 200px;
                 text-decoration: underline;
 
             }
@@ -384,7 +385,42 @@ html,body{
     
             }
          
-          
+            @media only screen and (max-width: 600px){
+
+                .header h1{
+                    font-size: 25px;
+                    position: absolute;
+                    
+                    left:10px;
+                   
+    
+                }
+                .header12 h1{
+                    font-size: 20px;
+                    position: absolute;
+                    top: 67px;
+                    left: 250px;
+                    text-decoration: underline;
+                }
+    
+                .header1 h2{
+                    font-size: 20px;
+                    position: absolute;
+                    top: 64px;
+                    left: 300px;
+                    text-decoration: underline;
+    
+                }
+    
+                .header3{
+                    font-size: 15px;
+                    position: absolute;
+                    top: 64px;
+                    left: 200px;
+        
+                }
+             
+              
           
 
            
